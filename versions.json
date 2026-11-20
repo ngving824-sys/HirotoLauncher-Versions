@@ -1,0 +1,19 @@
+[
+  {
+    "version": "Release 1.26.65.01",
+    "type": "Release",
+    "size": "1.99 GB",
+    "arch": "x64 (GDK)",
+    "urls": [
+      "https://assets1.xboxlive.com/Z/duong-dan-file-1.26.65.01.msixvc",
+      "https://assets2.xboxlive.com/Z/duong-dan-file-1.26.65.01.msixvc"
+    ]
+  },
+  {
+    "version": "Release 1.26.60.05",
+    "type": "Release",
+    "size": "1.99 GB",
+    "arch": "x64 (GDK)",
+    "url": "https://assets1.xboxlive.com/Z/duong-dan-file-1.26.60.05.msixvc"
+  }
+]
