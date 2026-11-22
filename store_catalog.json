@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-11-22",
+  "items": [
+    {
+      "id": "pvp_fps_boost_16x",
+      "name": "Hiroto PvP Smooth 16x (Tăng FPS + Low Fire)",
+      "category": "pvp",
+      "category_label": "Texture PvP",
+      "version": "1.21+ / 1.26",
+      "size": "3.4 MB",
+      "summary": "Lửa thấp không che màn hình, kiếm ngắn gọn mắt, bầu trời PvP sáng rõ & tăng FPS cực tốt cho máy yếu.",
+      "file_type": "mcpack",
+      "url": "",
+      "manual_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs",
+      "pro_only": true,
+      "badge": "HOT PVP"
+    },
+    {
+      "id": "oneblock_survival_vn",
+      "name": "Map OneBlock Sinh Tồn 14 Giai Đoạn",
+      "category": "map",
+      "category_label": "Map / OneBlock",
+      "version": "1.21+ / 1.26",
+      "size": "12.8 MB",
+      "summary": "Sinh tồn trên 1 khối duy nhất, đầy đủ 14 hệ sinh thái, rương bí mật & trùm Rồng Ender — cài 1-Click vào ngay.",
+      "file_type": "mcworld",
+      "url": "",
+      "manual_url": "https://mcpedl.com/category/maps/",
+      "pro_only": true,
+      "badge": "MAP HOT"
+    },
+    {
+      "id": "survival_plus_modpack",
+      "name": "Bộ Addon Sinh Tồn+ (Ba Lô • Chặt Cây Nhanh • Minimap)",
+      "category": "modpack",
+      "category_label": "Modpack / Addon",
+      "version": "1.21.50+",
+      "size": "8.2 MB",
+      "summary": "Combo 3 Addon sinh tồn được tải nhiều nhất: chặt 1 phát đổ cả cây, ba lô 27 ô, hiển thị máu quái sạch sẽ.",
+      "file_type": "mcaddon",
+      "url": "",
+      "manual_url": "https://mcpedl.com/category/mods/addons/",
+      "pro_only": true,
+      "badge": "COMBO PRO"
+    },
+    {
+      "id": "prizma_vibrant_shader_ref",
+      "name": "Prizma / Luminous Vibrant Visuals (Shader PBR Đẹp)",
+      "category": "shader",
+      "category_label": "Shader PBR",
+      "version": "1.21.80+ / 1.26",
+      "size": "18.5 MB",
+      "summary": "Bóng đổ thời gian thực siêu mịn, nước phản chiếu gương, hoàng hôn rực rỡ.",
+      "file_type": "mcpack",
+      "url": "",
+      "manual_url": "https://www.curseforge.com/minecraft-bedrock/texture-packs",
+      "pro_only": true,
+      "badge": "ULTRA PBR"
+    }
+  ]
+}
